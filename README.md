@@ -26,11 +26,11 @@ Currently, annotations are provided in a **custom JSON format** containing:
   "height": 480,
   "annotations": [
     {
-      "label": "student",
+      "label": "Normal",
       "bbox": [120, 85, 100, 200]
     },
     {
-      "label": "teacher",
+      "label": "DI_01",
       "bbox": [300, 100, 90, 180]
     }
   ]
