@@ -2,6 +2,8 @@
 
 The **AI-Teach** dataset is curated for training and evaluating computer vision models, particularly in the field of object detection and educational automation. This dataset is currently in development and will be continuously updated.
 
+[![Screenshot-2025-06-09-at-11-51-28-PM.png](https://i.postimg.cc/rwc3Kmgn/Screenshot-2025-06-09-at-11-51-28-PM.png)](https://postimg.cc/vcq3KGJf)
+
 ## 📦 Dataset Contents (Current Version)
 
 - ✅ **Images**: A full collection of raw image data (JPEG/PNG format).
